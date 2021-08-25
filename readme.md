@@ -15,3 +15,8 @@
   - <a href="https://wa.me/6282164141394"/><img alt="Alif WhatsApp" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /><b> WhatsApp</b></a>
   </p>
 </details>
+
+
+
+
+$ pkg update
