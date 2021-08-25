@@ -19,4 +19,4 @@
 
 
 
-$ pkg update
+$ pkg updatec
